@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Rodyapa. I'm from Russia, Saint-Petersburg. I'm 22 y.o.
+# 👋 Hi, I’m Rodion. I'm from Russia, Saint Petersburg. I'm 22 y.o.
 ## 👀 I’m interested in Backend Development and Telegram Bots Development
 ## 💻 Techlogoies i use:
 - Django
